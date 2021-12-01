@@ -1,0 +1,22 @@
+{
+  "name": "weather-cli",
+  "version": "1.0.0",
+  "description": "CLI for getting weather",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "CLI",
+    "weather"
+  ],
+  "author": "\"Akhmetov Rustam\"",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "utl": "https://github.com/Rus-tam/weather-cli"
+  },
+  "bugs": {
+    "email": "ahmetov.rustam2011@gmail.com"
+  }
+}
